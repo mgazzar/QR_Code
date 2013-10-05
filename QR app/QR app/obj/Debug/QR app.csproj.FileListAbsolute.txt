@@ -1,0 +1,10 @@
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\bin\Debug\QR app.exe.config
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\bin\Debug\QR app.exe
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\bin\Debug\QR app.pdb
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\obj\Debug\QR app.csprojResolveAssemblyReference.cache
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\obj\Debug\QR_app.Form1.resources
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\obj\Debug\QR_app.Properties.Resources.resources
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\obj\Debug\QR app.csproj.GenerateResource.Cache
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\obj\Debug\QR app.exe
+c:\users\maged\documents\visual studio 2012\Projects\QR app\QR app\obj\Debug\QR app.pdb
